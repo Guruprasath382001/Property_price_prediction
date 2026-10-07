@@ -1,0 +1,18 @@
+{
+    "model": "Ridge Regression",
+    "alpha": 1,
+    "dataset_samples": 4543,
+    "development_samples": 3634,
+    "test_samples": 909,
+    "metrics": {
+        "mae": 105153.73251435775,
+        "rmse": 166481.17780377754,
+        "r2": 0.7774843230447084
+    },
+    "error_direction": {
+        "UNDERPREDICTION": 477,
+        "OVERPREDICTION": 432
+    },
+    "largest_absolute_error": 1402157.5133598507,
+    "mean_absolute_error": 105153.73251435775
+}

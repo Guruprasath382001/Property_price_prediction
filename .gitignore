@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+.venv/
+env/
+property_venv/
+.property_venv/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+
+# Model artifacts
+# Uncomment if model files should NOT be committed to Git
+# models/*.pkl
+# models/*.joblib
+
+# Large datasets
+# data/*.csv
